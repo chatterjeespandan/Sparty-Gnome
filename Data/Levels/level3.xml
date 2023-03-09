@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="8192" height="1024" start-y="796" start-x="788">
+    <declarations>
+        <background id="i002" image="backgroundColorDesert.png"/>
+        <door id="i004" image="door.png"/>
+        <rare-candy id="i005" image="rare-candy.png"/>
+        <platform id="i006" left-image="grassLeft.png" mid-image="grassMid.png" right-image="grassRight.png"/>
+        <platform id="i007" left-image="platformIndustrial_059.png" mid-image="platformIndustrial_060.png"
+                  right-image="platformIndustrial_061.png"/>
+        <wall id="i008" image="wall1.png"/>
+        <wall id="i009" image="wall2.png"/>
+        <money id="i010" image="money100.png" value="100"/>
+        <money id="i011" image="money1000.png" value="1000"/>
+        <tuition-up id="i012" image="stanley.png"/>
+        <villain id="i013" image="UofM.png"/>
+        <villain id="i014" image="wisc.png"/>
+    </declarations>
+    <items>
+        <background id="i002" x="512" y="512"/>
+        <background id="i002" x="1536" y="512"/>
+        <background id="i002" x="2560" y="512"/>
+        <background id="i002" x="3584" y="512"/>
+        <background id="i002" x="4608" y="512"/>
+        <background id="i002" x="5632" y="512"/>
+        <background id="i002" x="6656" y="512"/>
+        <background id="i002" x="7680" y="512"/>
+
+        <platform id="i006" x="1244" y="974" width="1068" height="32"/>
+
+        <platform id="i007" x="1480" y="440" width="880" height="32"/>
+        <platform id="i007" x="1044" y="695" width="480" height="32"/>
+        <wall id="i008" x="820" y="572" width="32" height="232"/>
+        <villain id="i014" x="1650" y="884"/>
+        <wall id="i009" x="1200" y="315" width="32" height="230"/>
+
+        <money id="i010" x="950" y="440"/>
+        <money id="i011" x="950" y="540"/>
+        <money id="i010" x="950" y="640"/>
+
+
+        <rare-candy id="i005" x="1800" y="300"/>
+
+        <platform id="i007" x="2704" y="848" width="224" height="32"/>
+        <wall id="i008" x="2640" y="896" width="32" height="64"/>
+        <wall id="i008" x="2768" y="896" width="32" height="64"/>
+
+
+        <platform id="i007" x="3504" y="848" width="224" height="32"/>
+        <wall id="i008" x="3440" y="896" width="32" height="64"/>
+        <wall id="i008" x="3568" y="896" width="32" height="64"/>
+        <money id="i010" x="3450" y="750"/>
+        <money id="i010" x="3550" y="670"/>
+        <money id="i010" x="3450" y="670"/>
+        <money id="i010" x="3550" y="750"/>
+
+        <platform id="i007" x="4304" y="848" width="224" height="32"/>
+        <wall id="i008" x="4240" y="896" width="32" height="64"/>
+        <wall id="i008" x="4368" y="896" width="32" height="64"/>
+        <money id="i010" x="4250" y="750"/>
+        <money id="i010" x="4350" y="670"/>
+        <money id="i010" x="4350" y="750"/>
+        <money id="i010" x="4250" y="670"/>
+
+        <platform id="i006" x="5416" y="600" width="1000" height="32"/>
+        <tuition-up id="i012" x="5200" y="480"/>
+        <money id="i010" x="5768" y="300"/>
+        <money id="i010" x="5800" y="152"/>
+        <money id="i010" x="5896" y="332"/>
+        <money id="i011" x="5896" y="216"/>
+        <money id="i011" x="5896" y="116"/>
+        <villain id="i013" x="5521" y="510"/>
+
+
+        <platform id="i007" x="6500" y="350" width="200" height="32"/>
+
+
+
+        <door id="i004" x="7600" y="179"/>
+        <platform id="i007" x="7600" y="285" width="168" height="32"/>
+
+        <rare-candy id="i005" x="4680" y="500"/>
+    </items>
+</level>
